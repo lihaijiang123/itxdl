@@ -19,8 +19,7 @@ class UsersController extends Controller
 
     public function add()
     {
-	echo ;;;;
-	111111111111111111
+	echo 123;
     }
 }
 

@@ -20,11 +20,8 @@ class UsersController extends Controller
     public function add()
     {
 	echo ;;;;
-	111111111111111111
-    }
-    public function user2()
-    {
-        echo 'i am user2';
+	2222222222222222222222
+	2222222222222222222222
     }
 }
 

@@ -12,5 +12,9 @@ class UsersController extends Controller
 	echo hello laravel;
     }
 
+    public function show()
+    {
+        echo this is show;
+    }
 }
 

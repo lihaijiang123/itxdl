@@ -22,6 +22,10 @@ class UsersController extends Controller
 	echo ;;;;
 	111111111111111111
     }
+    public function user2()
+    {
+        echo 'i am user2';
+    }
 }
 
 

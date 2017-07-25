@@ -16,5 +16,11 @@ class UsersController extends Controller
     {
         echo this is show;
     }
+
+    public function add()
+    {
+	echo ;;;;
+    }
 }
+
 
